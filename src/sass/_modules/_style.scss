@@ -7,8 +7,12 @@ body{
     font-family:"Inconsolata"!important;
 }
 
-#maincontainer{
-    box-shadow:0px 0px 2px $cblack;
-    padding-left:0px!important; 
-    padding-right:0px!important; // les paddings font que le box shadow est d2caler de 15 px ;; ( p L et R a 15 px sur .container et compagnie ); 
-}
+// @media screen and (min-width: 960px){
+
+//     #maincontainer{
+//         box-shadow:0px 0px 2px $cblack;
+//         padding-left:0px!important; 
+//         padding-right:0px!important; // les paddings font que le box shadow est d2caler de 15 px ;; ( p L et R a 15 px sur .container et compagnie ); 
+//     }    
+
+// }
